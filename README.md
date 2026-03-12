@@ -28,13 +28,15 @@ The dashboard was designed to provide stakeholders with quick answers to key bus
 * **Calculations & Logic:** DAX (e.g., precise calculation of Average Order Value using `DIVIDE` and `DISTINCTCOUNT` to prevent aggregation errors).
 * **Data Modeling:** Relational data modeling linking multiple factual and dimensional tables.
 
+* **Data Model / Star Schema:**
+![Data Model](https://github.com/peteo0098/E-commerce/blob/main/E%20commerce%20model%20view.png)
+
 ##  Key Business Insights (Based on Dashboard Data)
 1. **Geographic Dominance:** The state of **São Paulo (SP)** is the undisputed leader in sales, generating roughly **$5.80M** in revenue, far outpacing Rio de Janeiro (RJ) and Minas Gerais (MG).
 2. **Top Product Categories:** The highest revenue is driven by the **Health & Beauty (beleza_saude)** category, closely followed by Watches & Gifts (relogios_presentes) and Bed, Bath & Table.
 3. **Fulfillment Success:** The logistics performance is highly effective, with **97%** of all tracked orders successfully marked as "delivered".
 4. **Overall Scale:** The platform successfully processed over **96K+ orders** across 96K+ unique customers, maintaining a healthy Average Order Value (AOV).
 
-![Customers & Products View](https://github.com/peteo0098/E-commerce/blob/main/E%20commerce%20model%20view.png)
 
 ## Dashboard Features
 * **Revenue Trend Analysis:** Area charts displaying growth from 2016 to 2018.
