@@ -5,7 +5,7 @@
 ##  Project Overview
 This project demonstrates how business intelligence tools can be utilized to analyze e-commerce sales performance and customer behavior. The data pipeline involves **PostgreSQL** for robust data processing and exploration, and **Power BI** for advanced data modeling, DAX calculations, and interactive visualization.
 
-![Dashboard Overview](Odkaz_na_tvoj_Screenshot_1.png)
+![Dashboard Overview](https://github.com/peteo0098/E-commerce/blob/main/dashboard-screenshot.png)
 
 ##  Dataset
 The analysis is based on the **Brazilian E-Commerce Public Dataset by Olist**. The relational database structure includes information about:
@@ -34,7 +34,7 @@ The dashboard was designed to provide stakeholders with quick answers to key bus
 3. **Fulfillment Success:** The logistics performance is highly effective, with **97%** of all tracked orders successfully marked as "delivered".
 4. **Overall Scale:** The platform successfully processed over **96K+ orders** across 96K+ unique customers, maintaining a healthy Average Order Value (AOV).
 
-![Customers & Products View](Odkaz_na_tvoj_Screenshot_2.png)
+![Customers & Products View](https://github.com/peteo0098/E-commerce/blob/main/E%20commerce%20model%20view.png)
 
 ## Dashboard Features
 * **Revenue Trend Analysis:** Area charts displaying growth from 2016 to 2018.
