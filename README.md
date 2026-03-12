@@ -47,8 +47,7 @@ The dashboard was designed to provide stakeholders with quick answers to key bus
 ## Project Structure
 * `E commerce dashboard.pbix` - The interactive Power BI dashboard file.
 * `Dashboard_Overview.png` - Screenshot of the main overview page.
-* `Dashboard_Products.png` - Screenshot of the Customers & Products analysis page.
-* *(Add your SQL script file here if you have it in the repo, e.g., `data_exploration.sql`)*
+* `E commerce model view.png` Screenshot of the model view page
 
 ---
 *Created by [peteo0098](https://github.com/peteo0098)*
